@@ -25,6 +25,6 @@ solution(soupMatrix,wordList);
 ```
 then, check in the console for your solution output.
 
-current Version: 1.0
+current Version: 1.2
 
-Not bonus points are implemented yet.
+The bonus points 1 and 2 were implemented with the tests variables (testSoup1,testWords1);
